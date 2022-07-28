@@ -1,0 +1,17 @@
+{
+    "userdata":{
+        "aimkeys":{
+        "id":1,
+        "favourite_cities":["Nairobi","Mombasa"],
+        "alerts":["rain","sun","tonado"]
+    },
+    "precious":{
+        "id":2,
+        "favourite_cities":["kampala","Mombasa"],
+        "alerts":["rain"]
+
+    }  
+    }
+  
+}
+
